@@ -1,2 +1,1 @@
-# uwp-dependency-properties-and-events
-UWP Dependency Properties and Events
+# UWP Dependency Properties and Events
